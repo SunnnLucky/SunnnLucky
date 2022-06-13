@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnnLucky&hide=contribs,prs)
