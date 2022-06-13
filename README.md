@@ -1,7 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnnLucky&hide=contribs,issues)
+### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnnLucky&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-### Hi there 👋
 **SunnnLucky/SunnnLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnnLucky&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnnLucky&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnnLucky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
